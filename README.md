@@ -1,4 +1,4 @@
-# PyPoll-Challenge
+# PyPoll-Analysis
 
 ## Overview of Election Audit
 The purpose of this code was to audit the results of the election and provide additional information requested by the commission. In addition to the audit they requested a voter turnout for each county, the percentage of votes from each county out of the total votes, and a record of the county with the highest turnout.
